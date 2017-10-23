@@ -1,2 +1,2 @@
 # Armadillo-A1
-CS314 
+Computer Graphics coursework
