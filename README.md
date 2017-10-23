@@ -1,2 +1,2 @@
-# Armadillo-A1
+# Armadillo
 Computer Graphics coursework
